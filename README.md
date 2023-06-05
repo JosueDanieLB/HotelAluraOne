@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Challenge ONE | Java | Back-end | Hotel Alura
 
 <p align="center" >
@@ -295,3 +296,7 @@ La pestaña de <em>Design</em> se abrirá por encima de la zona del <em>Console<
 💙 <strong>Alura Latam</strong></br>
 <a href="https://www.linkedin.com/company/alura-latam/mycompany/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+=======
+# HotelAluraOne
+Challenge del programa Alura One de la rama Backend
+>>>>>>> dff36fae9b18caf30a23bf637a22842aabb68bb7
